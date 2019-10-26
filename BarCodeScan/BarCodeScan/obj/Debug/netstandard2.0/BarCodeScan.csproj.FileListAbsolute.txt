@@ -1,0 +1,13 @@
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\BarCodeScan.csprojAssemblyReference.cache
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\bin\Debug\netstandard2.0\BarCodeScan.deps.json
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\bin\Debug\netstandard2.0\BarCodeScan.dll
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\bin\Debug\netstandard2.0\ref\BarCodeScan.dll
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\bin\Debug\netstandard2.0\BarCodeScan.pdb
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\BarCodeScan.AssemblyInfoInputs.cache
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\BarCodeScan.AssemblyInfo.cs
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\BarCodeScan.dll
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\ref\BarCodeScan.dll
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\BarCodeScan.pdb
+C:\Users\oleg\source\repos\BarCodeScan\BarCodeScan\obj\Debug\netstandard2.0\XamlC.stamp
