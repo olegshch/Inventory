@@ -6,13 +6,16 @@ using System.Threading.Tasks;
 
 namespace InventoryModels
 {
-    /// <summary>
-    /// класс пользователя с именем, id, паролем
-    /// </summary>
-    class User 
+    
+    class KnownInstrument
     {
         public int Id { get; set; }
-        public string Name { get; set; } 
-      
+
+        public Nomenclature Nomenclature { get; set; }
+
+        public string Xkey { get; set; } 
+
     }
+       
+     
 }

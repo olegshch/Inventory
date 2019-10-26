@@ -9,6 +9,10 @@ namespace InventoryModels
     /// <summary>
     /// номенклатура общая (и для инструментов) Nomenclature : Global
     /// </summary>
-    class Nomenclature : Global
-    {}
+  public  class Nomenclature 
+    {
+        public int Id { get; set; }
+
+        public string Name { get; set; }
+    }
 }

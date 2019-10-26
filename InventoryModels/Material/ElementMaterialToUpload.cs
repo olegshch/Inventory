@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace InventoryModels
 {
-    class ElementMaterialToUpload : MaterialNomenclature
+    class ElementMaterialToUpload  
     {       
+        public int Id { get; set; }
+
         public Hold HoldMaterial { get; set; }
         public MaterialNomenclature MaterialNomenclature { get; set; }               
         public double Count { get; set; }

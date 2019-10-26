@@ -13,6 +13,7 @@ namespace InventoryModels
     /// </summary>
     public enum TypeOfHold
     {
-        MaterialHold, InstrumentHold
+        MaterialHold, 
+        InstrumentHold
     }
 }

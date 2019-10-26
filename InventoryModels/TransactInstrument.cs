@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InventoryModels
 {
-    class TransactInstrument
+    public  class TransactInstrument
     {
         public int Id { get; set; }
         public ElementInstrumentToUpload ElementInstrumentToUpload { get; set; }
