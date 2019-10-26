@@ -5,14 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace InventoryModels
-{
-    /// <summary>
-    /// класс пользователя с именем, id, паролем
-    /// </summary>
-    class User 
+
+   public class MaterialElement
     {
+  
         public int Id { get; set; }
-        public string Name { get; set; } 
-      
+
+
+        public MaterialNomenclature MaterialNomenclature { get; set; }
+
+    
+        public double Count { get; set; }
     }
 }

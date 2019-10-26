@@ -5,13 +5,11 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace InventoryModels
-{  
-    public class Hold 
+{
+  
+   public class MaterialNomenclature : Nomenclature
     {
-        public int Id { get; set; }
-
-        public string Name { get; set; }   
-
-        public TypeOfHold Type { get; set; }
+    
+        public string Units { get; set; }
     }
 }

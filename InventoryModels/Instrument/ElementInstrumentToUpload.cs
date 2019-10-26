@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace InventoryModels
 {
-    class ElementInstrumentToUpload : Global
+  public  class ElementInstrumentToUpload 
     {
+        public int Id { get; set; }
         
         public Hold HoldInstrument { get; set; }
         public Nomenclature Nomenclature { get; set; }
-        public KnownInstrument InstrumentHeader { get; set; }
+        public KnownInstrument KnownInstrument { get; set; }
         
         public string ImagePhoneSource { get; set; }
         public bool IsLoaded { get; set; }

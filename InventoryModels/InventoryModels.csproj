@@ -41,19 +41,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CommonInventoryObject.cs" />
-    <Compile Include="ElementInstrumentToUpload.cs" />
-    <Compile Include="ElementMaterialToUpload.cs" />
-    <Compile Include="Global.cs" />
-    <Compile Include="KnownInstrument.cs" />
-    <Compile Include="MaterialElement.cs" />
-    <Compile Include="MaterialNomenclature.cs" />
+    <Compile Include="Instrument\ElementInstrumentToUpload.cs" />
+    <Compile Include="Material\ElementMaterialToUpload.cs" />
+    <Compile Include="Instrument\KnownInstrument.cs" />
+    <Compile Include="Material\MaterialElement.cs" />
+    <Compile Include="Material\MaterialNomenclature.cs" />
     <Compile Include="TransactInstrument.cs" />
     <Compile Include="TypeOfHold.cs" />
-    <Compile Include="Nomenclature.cs" />
+    <Compile Include="Instrument\Nomenclature.cs" />
     <Compile Include="Hold.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="User.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

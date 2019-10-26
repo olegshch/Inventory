@@ -1,0 +1,5 @@
+C:\Users\alexg\Source\Repos\InventoryLib\InventoryModels\bin\Debug\InventoryModels.dll
+C:\Users\alexg\Source\Repos\InventoryLib\InventoryModels\bin\Debug\InventoryModels.pdb
+C:\Users\alexg\Source\Repos\InventoryLib\InventoryModels\obj\Debug\InventoryModels.csprojAssemblyReference.cache
+C:\Users\alexg\Source\Repos\InventoryLib\InventoryModels\obj\Debug\InventoryModels.dll
+C:\Users\alexg\Source\Repos\InventoryLib\InventoryModels\obj\Debug\InventoryModels.pdb
