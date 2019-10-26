@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace InventoryModels
 {
     
-    class KnownInstrument
+     public   class KnownInstrument
     {
         public int Id { get; set; }
 

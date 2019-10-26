@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Instrument\ElementInstrumentToUpload.cs" />
+    <Compile Include="InventoryObject.cs" />
     <Compile Include="Material\ElementMaterialToUpload.cs" />
     <Compile Include="Instrument\KnownInstrument.cs" />
     <Compile Include="Material\MaterialElement.cs" />

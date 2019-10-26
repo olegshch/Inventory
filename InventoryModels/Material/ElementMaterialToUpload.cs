@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace InventoryModels
 {
-    class ElementMaterialToUpload  
+  public  class ElementMaterialToUpload  
     {       
         public int Id { get; set; }
 
